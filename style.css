@@ -1,0 +1,128 @@
+body{
+    background: #089EEE !important;
+}
+
+
+#content{
+    background: #69B8ED !important;
+}
+
+.bg {
+    background: #396FA9 !important;
+    border-radius: 5px;
+}
+
+.notif {
+    background: #c74442 !important;
+    border-radius: 5px;
+}
+
+#rowO .row p{
+    margin-bottom: 5px !important;
+}
+
+h2 i.fa-brands{
+    color: #01598C;
+}
+
+#top {
+    display: block;
+    margin-left: 150px;
+    height: 10px;
+    width: 100px;
+    background: black;
+}
+
+#right {
+    display: block;
+    margin-top: -60px;
+    margin-left: 240px;
+    height: 250px;
+    width: 10px;
+    background: black;
+}
+
+#bottom {
+    display: block;
+    height: 10px;
+    width: 250px;
+    background: black;
+}
+
+#left {
+    display: block;
+    margin-top: -14px;
+    margin-left: 126px;
+    height: 70px;
+    width: 10px;
+    background: black;
+    transform: rotate(40deg);
+}
+
+#man {
+    position: absolute;
+    margin-top: -212px;
+}
+
+#head {
+    width: 40px;
+    height: 40px;
+    margin-left: 90px;
+    border-radius: 50%;
+    background: red;
+}
+
+.member, .leg{
+    float: left;
+}
+
+.floatEnd{
+    clear: both;
+}
+
+#body {
+    display: block;
+    border-radius: 20px;
+    height: 80px;
+    width: 30px;
+    background: black;
+}
+
+#handLeft {
+    margin-top: 10px;
+    display: block;
+    margin-left: 85px;
+    height: 40px;
+    width: 10px;
+    background: black;
+    transform: rotate(10deg);
+}
+
+#handRight {
+    margin-top: 10px;
+    display: block;
+    height: 40px;
+    width: 10px;
+    background: black;
+    transform: rotate(-10deg);
+}
+
+#legLeft {
+    margin-top: -10px;
+    display: block;
+    margin-left: 87px;
+    height: 60px;
+    width: 10px;
+    background: black;
+    transform: rotate(10deg);
+}
+
+#legRight {
+    margin-top: -10px;
+    display: block;
+    margin-left: 27px;
+    height: 60px;
+    width: 10px;
+    background: black;
+    transform: rotate(-10deg);
+}
